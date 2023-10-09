@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(179, 123, 55);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    background-color: aliceblue;
+    height: 40px;
+    border-radius: 20px;
+    padding: 10px 0px 0px 15px;
+}
+img{
+    border-radius: 10px;
+    float: left;
+    margin: 0 15px 0 0;
+    border: 1px solid #05e44f;
+    padding: 10px 10px 10px 10px;
+    background-color: yellow;
+}
